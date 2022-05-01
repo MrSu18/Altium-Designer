@@ -1,0 +1,135 @@
+Teardrop Report STC89C52.PcbDoc
+On 2022/5/1 at 16:37:44
+
+Pads visited                : 108
+
+Vias visited                : 14
+
+Pad teardrops failed : 0
+
+Pad P0.0-8(3965mil,3230mil) on Multi-Layer
+Pad P0.0-6(3965mil,3130mil) on Multi-Layer
+Pad P0.0-4(3965mil,3030mil) on Multi-Layer
+Pad P0.0-1(3965mil,2880mil) on Multi-Layer
+Pad P0.0-2(3965mil,2930mil) on Multi-Layer
+Pad P0.0-3(3965mil,2980mil) on Multi-Layer
+Pad P0.0-5(3965mil,3080mil) on Multi-Layer
+Pad P0.0-7(3965mil,3180mil) on Multi-Layer
+Pad P3.2-8(3080mil,3235mil) on Multi-Layer
+Pad P3.2-6(3080mil,3135mil) on Multi-Layer
+Pad P3.2-4(3080mil,3035mil) on Multi-Layer
+Pad P3.2-1(3080mil,2885mil) on Multi-Layer
+Pad P3.2-2(3080mil,2935mil) on Multi-Layer
+Pad P3.2-3(3080mil,2985mil) on Multi-Layer
+Pad P3.2-5(3080mil,3085mil) on Multi-Layer
+Pad P3.2-7(3080mil,3185mil) on Multi-Layer
+Pad P1.7-7(3615mil,3500mil) on Multi-Layer
+Pad P1.7-5(3515mil,3500mil) on Multi-Layer
+Pad P1.7-3(3415mil,3500mil) on Multi-Layer
+Pad P1.7-2(3365mil,3500mil) on Multi-Layer
+Pad P1.7-1(3315mil,3500mil) on Multi-Layer
+Pad P1.7-4(3465mil,3500mil) on Multi-Layer
+Pad P1.7-6(3565mil,3500mil) on Multi-Layer
+Pad P1.7-8(3665mil,3500mil) on Multi-Layer
+Pad P2.0-7(3365mil,2650mil) on Multi-Layer
+Pad P2.0-5(3465mil,2650mil) on Multi-Layer
+Pad P2.0-3(3565mil,2650mil) on Multi-Layer
+Pad P2.0-2(3615mil,2650mil) on Multi-Layer
+Pad P2.0-1(3665mil,2650mil) on Multi-Layer
+Pad P2.0-4(3515mil,2650mil) on Multi-Layer
+Pad P2.0-6(3415mil,2650mil) on Multi-Layer
+Pad P2.0-8(3315mil,2650mil) on Multi-Layer
+Pad Free-5(3985mil,3545mil) on Multi-Layer
+Pad Free-4(4005mil,2595mil) on Multi-Layer
+Pad Free-3(3030mil,2590mil) on Multi-Layer
+Pad Free-2(3015mil,3555mil) on Multi-Layer
+Pad K?-1(3986.395mil,3334.716mil) on Top Layer
+Pad K?-3(3765mil,3555mil) on Top Layer
+Pad U1-44(3538.3mil,3341.011mil) on Top Layer
+Pad U1-43(3560.571mil,3318.74mil) on Top Layer
+Pad U1-42(3582.842mil,3296.469mil) on Top Layer
+Pad U1-41(3605.113mil,3274.198mil) on Top Layer
+Pad U1-40(3627.385mil,3251.927mil) on Top Layer
+Pad U1-39(3649.655mil,3229.655mil) on Top Layer
+Pad U1-38(3671.927mil,3207.385mil) on Top Layer
+Pad U1-37(3694.198mil,3185.113mil) on Top Layer
+Pad U1-36(3716.469mil,3162.842mil) on Top Layer
+Pad U1-35(3738.74mil,3140.571mil) on Top Layer
+Pad U1-34(3761.011mil,3118.3mil) on Top Layer
+Pad U1-33(3761.011mil,3021.7mil) on Top Layer
+Pad U1-32(3738.74mil,2999.429mil) on Top Layer
+Pad U1-31(3716.469mil,2977.158mil) on Top Layer
+Pad U1-30(3694.198mil,2954.887mil) on Top Layer
+Pad U1-29(3671.927mil,2932.615mil) on Top Layer
+Pad U1-28(3649.655mil,2910.345mil) on Top Layer
+Pad U1-27(3627.385mil,2888.073mil) on Top Layer
+Pad U1-26(3605.113mil,2865.802mil) on Top Layer
+Pad U1-25(3582.842mil,2843.531mil) on Top Layer
+Pad U1-24(3560.571mil,2821.26mil) on Top Layer
+Pad U1-23(3538.3mil,2798.989mil) on Top Layer
+Pad U1-22(3441.7mil,2798.989mil) on Top Layer
+Pad U1-21(3419.429mil,2821.26mil) on Top Layer
+Pad U1-20(3397.158mil,2843.531mil) on Top Layer
+Pad U1-19(3374.887mil,2865.802mil) on Top Layer
+Pad U1-18(3352.615mil,2888.073mil) on Top Layer
+Pad U1-17(3330.345mil,2910.345mil) on Top Layer
+Pad U1-16(3308.073mil,2932.615mil) on Top Layer
+Pad U1-15(3285.802mil,2954.887mil) on Top Layer
+Pad U1-14(3263.531mil,2977.158mil) on Top Layer
+Pad U1-13(3241.26mil,2999.429mil) on Top Layer
+Pad U1-12(3218.989mil,3021.7mil) on Top Layer
+Pad U1-11(3218.989mil,3118.3mil) on Top Layer
+Pad U1-10(3241.26mil,3140.571mil) on Top Layer
+Pad U1-9(3263.531mil,3162.842mil) on Top Layer
+Pad U1-8(3285.802mil,3185.113mil) on Top Layer
+Pad U1-7(3308.073mil,3207.385mil) on Top Layer
+Pad U1-6(3330.345mil,3229.655mil) on Top Layer
+Pad U1-5(3352.615mil,3251.927mil) on Top Layer
+Pad U1-4(3374.887mil,3274.198mil) on Top Layer
+Pad U1-3(3397.158mil,3296.469mil) on Top Layer
+Pad U1-2(3419.429mil,3318.74mil) on Top Layer
+Pad U1-1(3441.7mil,3341.011mil) on Top Layer
+Pad RN2-5(3842.264mil,2822.27mil) on Bottom Layer
+Pad RN2-4(3792.154mil,2872.377mil) on Bottom Layer
+Pad RN2-6(3820mil,2800mil) on Bottom Layer
+Pad RN2-3(3769.89mil,2850.107mil) on Bottom Layer
+Pad RN2-7(3797.726mil,2777.726mil) on Bottom Layer
+Pad RN2-2(3747.616mil,2827.833mil) on Bottom Layer
+Pad RN2-8(3775.462mil,2755.456mil) on Bottom Layer
+Pad RN2-1(3725.352mil,2805.563mil) on Bottom Layer
+Pad RN1-5(3807.73mil,3327.264mil) on Bottom Layer
+Pad RN1-4(3757.623mil,3277.154mil) on Bottom Layer
+Pad RN1-6(3830mil,3305mil) on Bottom Layer
+Pad RN1-3(3779.893mil,3254.89mil) on Bottom Layer
+Pad RN1-7(3852.274mil,3282.726mil) on Bottom Layer
+Pad RN1-2(3802.167mil,3232.616mil) on Bottom Layer
+Pad RN1-8(3874.544mil,3260.462mil) on Bottom Layer
+Pad RN1-1(3824.436mil,3210.352mil) on Bottom Layer
+Pad C1-1(3487.326mil,3077.326mil) on Bottom Layer
+Pad C1-2(3440mil,3030mil) on Bottom Layer
+Pad C2-1(3393.663mil,3168.663mil) on Bottom Layer
+Pad C2-2(3346.337mil,3121.337mil) on Bottom Layer
+Pad C3-2(3528.974mil,3146.026mil) on Bottom Layer
+Pad C3-1(3451.026mil,3223.974mil) on Bottom Layer
+Pad R1-1(3574.497mil,3200.503mil) on Bottom Layer
+Pad R1-2(3525mil,3250mil) on Bottom Layer
+Pad X-2(3294.066mil,3070.934mil) on Bottom Layer
+Pad X-1(3385.934mil,2979.066mil) on Bottom Layer
+
+Via teardrops failed : 0
+
+Via (3710mil,3440mil) from Top Layer to Bottom Layer
+Via (3735.606mil,3224.394mil) from Top Layer to Bottom Layer
+Via (3715mil,3375mil) from Top Layer to Bottom Layer
+Via (3717.198mil,2875mil) from Top Layer to Bottom Layer
+Via (3747.583mil,2899.923mil) from Top Layer to Bottom Layer
+Via (3765mil,3195mil) from Top Layer to Bottom Layer
+Via (3795mil,3165mil) from Top Layer to Bottom Layer
+Via (3825mil,3140mil) from Top Layer to Bottom Layer
+Via (3690mil,2850mil) from Top Layer to Bottom Layer
+Via (3775mil,2925mil) from Top Layer to Bottom Layer
+Via (3615mil,3135mil) from Top Layer to Bottom Layer
+Via (3385mil,2980mil) from Top Layer to Bottom Layer
+Via (3290mil,3070mil) from Top Layer to Bottom Layer
+Via (3450mil,3225mil) from Top Layer to Bottom Layer
+

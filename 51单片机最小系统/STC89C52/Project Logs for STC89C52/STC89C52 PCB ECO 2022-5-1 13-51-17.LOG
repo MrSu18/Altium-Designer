@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=-1
+Removed Pin From Net: NetName=GND Pin=-2
+Removed Pin From Net: NetName=GND Pin=-3
+Removed Pin From Net: NetName=VCC Pin=-4
+Removed Pin From Net: NetName=VCC Pin=-5
+Removed Pin From Net: NetName=VCC Pin=-6
+Change Component Footprint: Designator=X Old Footprint=OSC HC-49S New Footprint=OSC 3215-2P
+Change Component Designator: OldDesignator=K NewDesignator=K?
+Change Component Designator: OldDesignator=P0.0 NewDesignator=P0
+Change Component Designator: OldDesignator=P1.0 NewDesignator=P1
+Change Component Designator: OldDesignator=P2.0 NewDesignator=P2
+Change Component Designator: OldDesignator=P3.2 NewDesignator=P3
+Added Room: Name=stc89c52
