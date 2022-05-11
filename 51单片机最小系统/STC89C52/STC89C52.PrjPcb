@@ -88,7 +88,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PTGNSPVP
 
 [Document4]
 DocumentPath=..\..\Library\Bace\Base.SchLib
@@ -241,7 +241,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LACTYBHX
+DocumentUniqueId=MKCQSEWE
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for STC89C52\Design Rule Check - STC89C52.html

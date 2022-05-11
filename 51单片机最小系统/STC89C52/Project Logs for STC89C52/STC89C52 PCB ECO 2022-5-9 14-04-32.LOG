@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=P0.0 Old Footprint=Header 1.27X8 New Footprint=Header 2.54X8
+Change Component Footprint: Designator=P1.7 Old Footprint=Header 1.27X8 New Footprint=Header 2.54X8
+Change Component Footprint: Designator=P2.0 Old Footprint=Header 1.27X8 New Footprint=Header 2.54X8
+Change Component Footprint: Designator=P3.2 Old Footprint=Header 1.27X8 New Footprint=Header 2.54X8
+Change Component Footprint: Designator=X Old Footprint=OSC 3215-2P New Footprint=OSC HC-49S
+Change Component Footprint: Designator=RN1 Old Footprint=RES-1206 New Footprint=RES-ARRAY-SMD_0402-8P-L2.0-W1.0-BL
+Change Component Footprint: Designator=RN2 Old Footprint=RES-1206 New Footprint=RES-ARRAY-SMD_0402-8P-L2.0-W1.0-BL
+Change Component Designator: OldDesignator=P0.0 NewDesignator=P0
+Change Component Designator: OldDesignator=P1.7 NewDesignator=P1
+Change Component Designator: OldDesignator=P2.0 NewDesignator=P2
+Change Component Designator: OldDesignator=P3.2 NewDesignator=P3
+Added Member To Class: ClassName=stc89c52 Member=Component P0 Header_8
+Added Member To Class: ClassName=stc89c52 Member=Component P1 Header_8
+Added Member To Class: ClassName=stc89c52 Member=Component P2 Header_8
+Added Member To Class: ClassName=stc89c52 Member=Component P3 Header_8
+Added Room: Name=stc89c52
